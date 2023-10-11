@@ -49,12 +49,9 @@ On Clicking Upload to Database Button the data gets stored in the MySQL Database
 Further with the help of MODIFY menu the uploaded data’s in SQL Database can be accessed for Read, Update and Delete Operations.
 
 
-NAME : ARUNKUMAR BAIRAVAN
+NAME : VIGNESH KNR
 
-BATCH: DW60DW61
+BATCH: DTM4
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL: https://youtu.be/zgdxZNvi1OE
-
-LINKED IN URL : https://www.linkedin.com/feed/update/urn:li:activity:7105845260295041024/
